@@ -1,0 +1,6 @@
+print("Mateusz")
+print("Jackiewcz")
+print("19")
+print("Curry")
+print("Pies")
+print(5/7)

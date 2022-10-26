@@ -1,0 +1,5 @@
+print("Mateusz Jackiewicz, 19, Curry, Pies, %f" % (5/7))
+print("Mateusz Jackiewicz, 19, Curry, Pies, %0.1f" % (5/7))
+print("Mateusz Jackiewicz, 19, Curry, Pies, %.3f" % (5/7))
+print("Mateusz Jackiewicz, 19, Curry, Pies, %0.5f" % (5/7))
+print("Mateusz Jackiewicz, 19, Curry, Pies, %0.10f" % (5/7))
